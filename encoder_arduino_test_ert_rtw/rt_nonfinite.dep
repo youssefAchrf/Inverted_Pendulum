@@ -1,0 +1,13 @@
+rt_nonfinite.o: C:/milestone1/encoder_arduino_test_ert_rtw/rt_nonfinite.c \
+ C:/milestone1/encoder_arduino_test_ert_rtw/rt_nonfinite.h \
+ C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ C:/milestone1/encoder_arduino_test_ert_rtw/rtGetNaN.h \
+ C:/milestone1/encoder_arduino_test_ert_rtw/rtGetInf.h
+
+C:/milestone1/encoder_arduino_test_ert_rtw/rt_nonfinite.h:
+
+C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+C:/milestone1/encoder_arduino_test_ert_rtw/rtGetNaN.h:
+
+C:/milestone1/encoder_arduino_test_ert_rtw/rtGetInf.h:

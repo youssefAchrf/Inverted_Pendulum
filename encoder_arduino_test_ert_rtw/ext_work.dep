@@ -1,0 +1,28 @@
+ext_work.o: D:/matlab2021/rtw/c/src/ext_mode/common/ext_work.c \
+ C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ D:/matlab2021/simulink/include/rtw_extmode.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/ext_types.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/ext_share.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/updown.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/upsup_public.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/ext_svr.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/ext_svr_transport.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/ext_work.h
+
+C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+D:/matlab2021/simulink/include/rtw_extmode.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/ext_types.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/ext_share.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/updown.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/upsup_public.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/ext_svr.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/ext_svr_transport.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/ext_work.h:

@@ -1,0 +1,41 @@
+ext_svr_daemon.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2021a/toolbox/target/shared/externalmode_daemon/src/ext_svr_daemon.c \
+ C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ C:/milestone1/encoder_arduino_test_ert_rtw/multiword_types.h \
+ C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ D:/matlab2021/simulink/include/rtw_extmode.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/ext_types.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/ext_share.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/ext_test.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/ext_svr_transport.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/updown.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/upsup_public.h \
+ D:/matlab2021/rtw/c/src/ext_mode/common/updown_util.h \
+ D:/matlab2021/rtw/c/src/dt_info.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/shared/EXTERN~1/include/daemon_checksum.h
+
+C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+C:/milestone1/encoder_arduino_test_ert_rtw/multiword_types.h:
+
+C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+D:/matlab2021/simulink/include/rtw_extmode.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/ext_types.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/ext_share.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/ext_test.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/ext_svr_transport.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/updown.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/upsup_public.h:
+
+D:/matlab2021/rtw/c/src/ext_mode/common/updown_util.h:
+
+D:/matlab2021/rtw/c/src/dt_info.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2021a/toolbox/target/shared/EXTERN~1/include/daemon_checksum.h:

@@ -1,0 +1,11 @@
+rtiostream_utils.o: \
+ D:/matlab2021/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ D:/matlab2021/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ D:/matlab2021/toolbox/coder/rtiostream/src/rtiostream.h
+
+D:/matlab2021/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+D:/matlab2021/toolbox/coder/rtiostream/src/rtiostream.h:

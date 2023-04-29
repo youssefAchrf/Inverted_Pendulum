@@ -1,0 +1,5 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2021a/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h
+
+C:/milestone1/encoder_arduino_test_ert_rtw/rtwtypes.h:
